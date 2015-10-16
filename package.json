@@ -1,0 +1,8 @@
+{
+  "name": "@metalab/generator-flowtype",
+  "version": "0.1.0",
+  "author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+  "dependencies": {
+    "yeoman-util": "^0.5.3"
+  }
+}

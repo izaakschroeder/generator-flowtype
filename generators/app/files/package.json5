@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"flowtype": "./node_modules/.bin/flow check src/"
+	},
+	"devDependencies": {
+		"flow-bin": "^0.17.0"
+	}
+}

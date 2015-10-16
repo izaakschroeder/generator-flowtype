@@ -1,0 +1,9 @@
+[include]
+src/
+
+[libs]
+
+[ignore]
+
+[version]
+0.17
